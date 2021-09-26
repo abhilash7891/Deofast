@@ -1,0 +1,10 @@
+Setup FEX,FFC,FDF,FCG,FAR,FQR,FUD files in Deofast Simulation and Production Environments. 
+The Files should be transferred from WISE System to the Affiliate Target Deofast Systems. 
+Once Setup is Done in Simulation, testing is Performed with dummy files to make sure that the files are transferred to the Destination Affiliate without any issues.
+if everything works fine in Simulation Environment, The file setup is moved to Deofast Production Environment
+
+Details:
+
+Site: IPXIDUS
+Event: OUTBOUND_NO_EVENT,INBOUND_NO_EVENT
+Folder: LPD
